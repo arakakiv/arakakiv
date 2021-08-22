@@ -1,8 +1,8 @@
 ### Hey, I'm arakakiv 😶
 
-- 💬 **Learning:** C#
+- 💭 **Learning:** C#
 - 💭 **Looking for:** a way
-- 💬 **Pronouns:** He/Him.
+- 💭 **Pronouns:** He/Him.
 - 💭 **Probably doing:** Thinking.
-- 💬 **Probably listening:** Some OST.
-- 💬 **I like:** Math, Physics, Coding, Reading, Living, (...)
+- 💭 **Probably listening:** Some OST.
+- 💭 **I like:** Math, Physics, Coding, Reading, Living, (...)
