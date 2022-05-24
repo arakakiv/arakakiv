@@ -1,5 +1,17 @@
-# Rurouni de-gozaru
+## Vitor Arakaki
+Olá!
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/89327990/158444140-8807cc4b-614e-46f1-b425-0cabeff83243.gif" />
-</p>
+<section>
+  <a href="https://github.com/arakakiv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=blue-green" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakakiv&theme=blue-green&layout=compact" />
+  </a>
+</section>
+
+<section>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35em" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35em" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35em" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=35em" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35em" />
+</section>
