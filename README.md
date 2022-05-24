@@ -1,4 +1,5 @@
-## arakakiv
+# Oi.
+Meu nome é Vitor Arakaki e tenho 18 anos. Atualmente, como back-end developer, estou estudando o desenvolvimento de APIs com **.NET** e me aprofundando em conceitos como **autenticação e autorização**, **arquitetura de software** e **testes unitários**. Como desenvolvedor front-end, busco me aprofundar em **Angular** e **TypeScript**. Também possuo conhecimento básico em **Docker** e **Linux**, e adoraria aprender um pouco sobre assuntos relacionados a segurança da informação.
 
 <div align="center">
   <img height="180em" alt="arakakiv github stats" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=gotham"/>
@@ -16,3 +17,9 @@
 </div>
 
 <hr>
+
+<div align="center">
+   <a href="mailto:vvitor.bbarcelos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="https://linkedin.com/in/arakakiv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://twitter.com/tkfromls"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
