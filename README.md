@@ -1,6 +1,6 @@
 ## arakakiv
 
-<div align="center" display="inline_block">
+<div align="center">
   <img height="180em" alt="arakakiv github stats" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=gotham"/>
   <img height="180em" alt= "arakakiv top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakakiv&theme=gotham&layout=compact" />
 </div>
