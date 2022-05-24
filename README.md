@@ -1,10 +1,10 @@
-<div align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=gotham" />
-    <div align="center" display="inline_block">
+<div>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=gotham" />
+    <div"width="40%" display="inline_block">
         <table border="0px">
             <tr>
                 <td>
-                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakakiv&theme=gotham&layout=compact" />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakakiv&theme=gotham&layout=compact" />
                 </td>
                 <td>
                     <table>
