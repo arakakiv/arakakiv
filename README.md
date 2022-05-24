@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=gotham" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=gotham" />
     <div align="center" display="inline_block">
         <table border="0px">
             <tr>
