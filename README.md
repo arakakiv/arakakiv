@@ -3,8 +3,8 @@ Olá!
 
 <section>
   <a href="https://github.com/arakakiv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=blue-green" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakakiv&theme=blue-green&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=gray-white" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakakiv&theme=gray-white&layout=compact" />
   </a>
 </section>
 
