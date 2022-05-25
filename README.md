@@ -1,5 +1,9 @@
 # Oi.
-Meu nome é Vitor Arakaki e tenho 18 anos. Atualmente, como back-end developer, estou estudando o desenvolvimento de APIs com **.NET** e me aprofundando em conceitos como **autenticação e autorização**, **arquitetura de software** e **testes unitários**. Como desenvolvedor front-end, busco me aprofundar em **Angular** e **TypeScript**. Também possuo conhecimento básico em **Docker** e **Linux**, e adoraria aprender um pouco sobre assuntos relacionados a segurança da informação.
+
+Meu nome é Vitor Arakaki e tenho 18 anos. Atualmente, como desenvolvedor back-end, estou estudando o desenvolvimento de APIs com **.NET** e me aprofundando em conceitos como **autenticação e autorização**, **arquitetura de software** e **testes unitários**. Como desenvolvedor front-end, busco me aprofundar em **Angular** e **TypeScript**. Também possuo conhecimento básico em **Docker** e **Linux**, e adoraria aprender um pouco sobre assuntos relacionados a **segurança da informação**.
+
+# Hi
+My name is Vitor Arakaki and I'm 18. Currently, as backend developer, I'm learning the API development with .NET and getting in depth in concepts like **authentication and authorization**, **architecture patterns** and **unit testing**. As frontend dev, I'm looking for improve my skills in **Angular** and **TypeScript**. I also have basic knowledge in **Docker** and **Linux**, and I would love learn more about **InfoSec and CyberSecurity**.
 
 <div align="center">
   <img height="180em" alt="arakakiv github stats" src="https://github-readme-stats.vercel.app/api?username=arakakiv&show_icons=true&theme=gotham"/>
